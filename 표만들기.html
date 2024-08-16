@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>표 만들기</title>
+    <style>
+        table {
+            border: 2px solid #232323;
+            background-color: beige;
+        }
+        caption{
+            text-align: center;
+            font-size: 27px;
+            font-weight: 700;
+        }
+        th, td{
+            width: 150px;
+            height: 50px;
+            border: #232323 1px solid;
+            text-align: center;
+        }
+    </style>
+</head>
+
+<body>
+    <table>
+        <caption>표 만들기 연습</caption>
+        <tr>
+            <th rowspan="3">사진</th>
+            <th colspan="2">이름</th>
+            <th>생년월일</th>
+            <th>주소</th>
+        </tr>
+        <tr>
+            <td colspan="2">이은서</td>
+            <td>2003.12.11</td>
+            <td>경기도 하남시</td>
+        </tr>
+        <tr>
+            <th>경력</th>
+            <td colspan="3">풀스택 개발자 과정 수료</td>
+        </tr>
+        <tr>
+            <th>학력</th>
+            <td colspan="4">서일대학교 재학</td>
+        </tr>
+    </table>
+</body>
+
+</html>
