@@ -3,7 +3,7 @@
 
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&duration=5003&pause=1000&width=435&lines=HelloWorld&align=center" alt="Typing SVG" /></a >
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&duration=5003&pause=1000&width=435&lines=Hello World&align=center" alt="Typing SVG" /></a >
 
 
 <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
